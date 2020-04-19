@@ -1,6 +1,6 @@
 {
-    "name": "PWA MAHASYIM 1",
-    "short_name": "PWA MA",
+    "name": "WEB MAHASYIM 1",
+    "short_name": "MANUHA 1",
     "description": "Aplikasi PWA pertama saya",
     "start_url": "/index.html",
     "display": "standalone",
