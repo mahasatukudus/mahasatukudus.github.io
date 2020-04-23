@@ -1,4 +1,4 @@
-const CACHE_NAME = "manuha1-hdjkkkhdye8108886421";
+const CACHE_NAME = "manuha1-99948375109jjdkrutncz";
 var urlsToCache = [
   "/",
   "/nav.html",
