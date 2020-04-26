@@ -26,7 +26,6 @@ var urlsToCache = [
   "/pages/iduladha.html",
   "/pages/idulfitri.html",
   "/pages/isromiroj.html",
-  "/pages/istisqo.html",
   "/pages/kemah.html",
   "/pages/kunjunganpuskesmas.html",
   "/pages/lombainternational.html,
