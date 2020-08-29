@@ -1,7 +1,7 @@
 {
     "name": "MA NU HASYIM ASY`ARI 1 KUDUS",
-    "short_name": "PWA MA",
-    "description": "Aplikasi PWA pertama saya",
+    "short_name": "MA NU HASYIM ASY`ARI 1",
+    "description": "Aplikasi PWA",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#00897B",
