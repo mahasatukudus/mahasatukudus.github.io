@@ -5873,7 +5873,7 @@ $jscomp.polyfill = function (e, r, p, m) {
     }, {
       key: "_isCurrentlyFixed",
       value: function _isCurrentlyFixed() {
-        return this.isFixed && window.innerWidth > 992;
+        return this.isFixed && window.innerWidth > 300;
       }
     }, {
       key: "_createDragTarget",
