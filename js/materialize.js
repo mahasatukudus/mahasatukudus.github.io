@@ -5839,7 +5839,7 @@ $jscomp.polyfill = function (e, r, p, m) {
       value: function _handleWindowResize() {
         // Only handle horizontal resizes
         if (this.lastWindowWidth !== window.innerWidth) {
-          if (window.innerWidth > 992) {
+          if (window.innerWidth > 500) {
             this.open();
           } else {
             this.close();
