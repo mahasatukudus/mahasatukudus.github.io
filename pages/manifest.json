@@ -1,0 +1,16 @@
+{
+    "name": "MA NU HASYIM ASY`ARI 1 KUDUS",
+    "short_name": "MA NU HASYIM ASY`ARI 1 KUDUS",
+    "description": "Aplikasi PWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "img_logo_hasyim.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
