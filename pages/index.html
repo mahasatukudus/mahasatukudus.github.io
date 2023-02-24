@@ -28,15 +28,15 @@
   <!-- Akhir Navigasi -->
   
   <div class="container" id="body-content"></div>
-  <script src="js/materialize.min.js"></script>
-  <script src="js/nav.js"></script>
+  <script src="./pages/js/materialize.min.js"></script>
+  <script src="./pages/js/nav.js"></script>
   
   <script>
   // REGISTER SERVICE WORKER
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", function() {
       navigator.serviceWorker
-        .register("/service-worker.js")
+        .register("./pages/service-worker.js")
         .then(function() {
           console.log("Pendaftaran ServiceWorker berhasil");
         })
